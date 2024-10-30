@@ -1,0 +1,21 @@
+{
+    "postagem": [
+        {
+            "titulo": "",
+            "conteudo": "",
+            "data": "",
+            "comentarios": [
+                {
+                    "titulo": "",
+                    "conteudo": "",
+                    "data": ""
+                }
+            ],
+            "autor": {
+                "nome": "",
+                "avatar": "",
+                "cargo": ""
+            }
+        }
+    ]
+}
